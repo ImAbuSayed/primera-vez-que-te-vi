@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/primera-vez-que-te-vi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Primera vez que te vi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/primera-vez-que-te-vi/) |
+| **Get License** | [Obtain a Music License for Primera vez que te vi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/primera-vez-que-te-vi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `357a546b0aac197f9b9c23cd49aac16620d3ec94f9c4f6e740e46b1681e6bd4b` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

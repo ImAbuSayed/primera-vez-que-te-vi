@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Primera vez que te vi
+
+This log tracks the cryptographic history and versioning for the song **Primera vez que te vi** (primera-vez-que-te-vi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T12:05:34.821095 | `v1` | `357a546b0aac197f9b9c23cd49aac16620d3ec94f9c4f6e740e46b1681e6bd4b` | `8b9ef8dddf19e51de9b734c5658949cbabbdb98a7150e779ea2fefb288c3d802` | `2026-06-15_primera-vez-que-te-vi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
