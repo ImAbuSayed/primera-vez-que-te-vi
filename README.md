@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/primera-vez-que-te-vi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Primera vez que te vi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/primera-vez-que-te-vi/) |
+| **Get License** | [Secure Licensing Rights for Primera vez que te vi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/primera-vez-que-te-vi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Primera vez que te vi, la noche cambió de color
+> You got that magic, baby, robándome el control
+> Esa mirada tuya me llama sin hacer ruido
+> Yo quiero ser el dueño del fuego que has encendido
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
